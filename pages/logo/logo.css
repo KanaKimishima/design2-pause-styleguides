@@ -32,9 +32,10 @@ header {
 }
 .logo_page_title {
     height: 20px;
-    margin-left: 780px;
+    margin-left: 785px;
     margin-top: 80px;
     font-size: 30px;
+    font-weight: 300;
 }
 
 
