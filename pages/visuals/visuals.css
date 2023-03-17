@@ -37,9 +37,9 @@ header {
 }
 
 .page__title {
-    font-size: 64px;
-    font-weight: 300;
-    margin-bottom: 50px;
+    margin-left: 780px;
+    margin-top: 80px;
+    font-size: 30px;
 }
 
 .icons, .buttons {

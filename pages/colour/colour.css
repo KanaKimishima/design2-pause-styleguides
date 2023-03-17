@@ -36,27 +36,45 @@ header {
     margin-bottom: 25px;
 }
 .page__title {
-    font-size: 65px;
+    font-size: 30px;
     font-weight: 300;
     margin-bottom: 50px;
+    margin-left: 800px;
+    margin-top: 80px;
 }
 
 .page__subtitle {
     text-align: center;
-    font-size: 3em;
+    font-size: 25px;
 }
 
 .coloursPalette__display, .coloursUsage__display {
+    width: 100px;
+    height: 300px;
     display: flex;
-    justify-content: center;
     gap: 3em;
+    margin-left: 400px;
 }
 .coloursPalette__display > img:hover {
     transform: scale(1.1); 
 }
+.colour_description {
+    margin-left: 400px;
+    margin-top: 15px;
+    font-size: 20px;
+}
+
 
 .page__subHeading {
-    font-size: 3em;
+    font-size: 25px;
+    margin-left: 400px;
+    margin-top: 20px;
     width: 2.8em;
     align-items: center;
+}
+.coloursUsage__display {
+    margin-top: 20px;
+    margin-left: 400px;
+    height: 450px;
+    width: 300px;
 }
