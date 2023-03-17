@@ -54,3 +54,9 @@ header {
 .coloursPalette__display > img:hover {
     transform: scale(1.1); 
 }
+
+.page__subHeading {
+    font-size: 3em;
+    width: 2.8em;
+    align-items: center;
+}
