@@ -32,3 +32,33 @@ header {
 }
 
 /** home page **/
+.desc {
+    margin: 0 450px;
+    display: flex;
+    justify-content: center;
+}
+
+.main-logo {
+    display: flex;
+    justify-content: center;
+}
+
+.logo-img {
+    padding-top: 50px;
+    padding-bottom: 40px;
+    width: 350px;
+}
+
+.cr {
+    display: flex;
+    justify-content: center;
+    margin: 20px 40px;
+    font-size: 10px;
+}
+
+.members {
+    display: flex;
+    justify-content: center;
+    margin: 15px 400px;
+    font-size: 15px;
+}
