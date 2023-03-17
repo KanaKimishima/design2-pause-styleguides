@@ -30,3 +30,10 @@ header {
     text-decoration: none;
     color: white;
 }
+.page_title {
+    height: 20px;
+    margin-left: 760px;
+    margin-top: 80px;
+    font-size: 30px;
+    font-weight: 300;
+}
