@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: "Futura-Condensed", Futura, sans-serif;
+    font-family: "Futura";
 }
 
 /** header **/
@@ -29,4 +29,24 @@ header {
 .nav-menu a {
     text-decoration: none;
     color: white;
+}
+
+/** contents **/
+.pixels {
+    width: 900px;
+}
+
+.imgs {
+    display: flex;
+    justify-content: center;
+}
+
+.imgs-title {
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.fonts {
+    width: 800px;
 }
