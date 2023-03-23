@@ -40,6 +40,7 @@ header {
     margin-left: 780px;
     margin-top: 80px;
     font-size: 30px;
+    font-weight: 300;
 }
 
 .icons, .buttons {
@@ -51,13 +52,27 @@ header {
 }
 
 .icons__headline {
-    width: 3.5em;
+    margin-left: 400px;
+    margin-top: 20px;
+    font-size: 25px;
+    font-weight: 300;
+    
+}
+.icons {
+    margin-top: 70px;
+}
+.buttons__headline {
+    margin-left: 400px;
+    margin-top: 100px;
+    font-size: 25px;
+    font-weight: 300;
 }
 
 .buttons {
     display: flex;
     flex-direction: row;
     gap: 5em;
+    margin-top: 90px;
 }
 
 .buttons__display {
@@ -69,8 +84,61 @@ header {
 .buttons__display > img:hover {
     transform: scale(1.1); 
 }
+.styles_container {
+    margin-top: 50px;
+}
 
 .imgsStyle__healine {
     width: 7.6em;
+    margin-left: 400px;
+    font-size: 25px;
+    margin-bottom: 50px;
+    font-weight: 300;
 }
+.image_one {
+    width: 400px;
+    height: 300px;
+    margin-left: 400px;
+}
+.image_two {
+    width: 400px;
+    height: 300px;
+    margin-left: 100px;
+}
+.image_three {
+    width: 400px;
+    height: 300px;
+    margin-left: 400px;
+    margin-top: 50px;
+}
+.image_four {
+    width: 400px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.image_five {
+    width: 400px;
+    height: 300px;
+    margin-left: 400px;
+    margin-top: 50px;
 
+}
+.image_six {
+    width: 400px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 50px; 
+}
+.image_seven {
+    width: 400px;
+    height: 300px;
+    margin-left: 400px;
+    margin-top: 50px;
+}
+.image_eight {
+    width: 400px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 50px;
+}

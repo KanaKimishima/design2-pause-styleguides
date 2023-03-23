@@ -32,9 +32,10 @@ header {
 }
 .logo_page_title {
     height: 20px;
-    margin-left: 780px;
+    margin-left: 785px;
     margin-top: 80px;
     font-size: 30px;
+    font-weight: 300;
 }
 
 
@@ -46,17 +47,17 @@ header {
 }
 
 .logo_description {
-    font-size: 23px;
+    font-size: 20px;
     margin-left: 300px;
     margin-top: 100px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 200;
+    font-weight: 300;
 }
 .first_symbol {
     width: 1200px;
     margin-left: 300px;
     font-size: 20px;
     font-weight: bold;
+    font-weight: 300;
 }
 
 .second_symbol {
@@ -64,6 +65,7 @@ header {
     margin-left: 300px;
     font-size: 20px;
     font-weight: bold;
+    font-weight: 300;
 }
 .logo_meaning {
     width: 1200px;
@@ -83,12 +85,13 @@ header {
     font-size: 25px;
     margin-left: 300px;
     margin-top: 150px;
+    font-weight: 300;
 }
 .logo_variants_p{
     width: 1200px;
     font-size: 20px;
     margin-left: 300px;
-    font-family: Arial, Helvetica, sans-serif;
+   
     font-weight: 200;
 }
 .logo_variant_one {
@@ -97,11 +100,14 @@ header {
     margin-left: 300px;
     margin-top: 120px;
 }
+.logo_variant_one_name {
+
+}
 .logo_variant_two {
     width: 250px;
     height: 255px;
     margin-left: 100px;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 .logo_variant_three {
     width: 195px;
@@ -110,20 +116,52 @@ header {
     margin-bottom: 20px;
     
 }
+.logo_variations_names{
+    display: flex;
+    flex-direction: row;
+}
+.logo_variant_one_name {
+   
+font-size: 20px;
+margin-left: 300px;
+font-size: 15px;
+font-weight: 300;
+
+}
+.logo_variant_two_name {
+    
+    font-size: 20px;
+    margin-left: 120px;
+    font-size: 15px;
+    font-weight: 300;
+   
+}
+.logo_variant_three_name {
+    font-size: 20px;
+    margin-left: 220px;
+    font-size: 15px;
+    font-weight: 300
+}
+
 .logo_sizing {
     font-size: 25px;
     margin-left: 300px;
-    margin-top: 150px;
+    margin-top: 100px;
+    font-weight: 300;
 }
 .logo_min_sizing {
     width: 95px;
     height: 100px;
     margin-left: 300px;
+    
 }
 .logo_min_sizing_description {
     width: 1200px;
     font-size: 20px;
     margin-left: 300px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 200;
+
+    font-weight: 300;
+}
+.sizing_container {
+    margin-bottom: 150px;
 }
